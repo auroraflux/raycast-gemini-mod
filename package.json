@@ -981,7 +981,7 @@
           "description": "Show a visual diff of the text changes.",
           "type": "checkbox",
           "required": false,
-          "default": true,
+          "default": false,
           "label": "Show Visual Diff"
         },
         {
